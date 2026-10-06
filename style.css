@@ -169,6 +169,13 @@ button:focus-visible {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  
+}
+.logo-elan {
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+   gap: 10px;
 }
 
 .logo {
@@ -544,4 +551,10 @@ button:focus-visible {
   margin-top: 24px;
   font-size: 13px;
   color: #94A3B8;
+}
+.logo-clair {
+  width: 50px;
+  height: 50px;
+  padding: 0;
+  margin: 0;
 }
