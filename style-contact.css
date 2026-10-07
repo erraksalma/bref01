@@ -1,19 +1,22 @@
 form .conteneur {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 20px; 
-  align-items: center;
-
-} 
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    width: 100%;
+}
+form h2.conteneur {
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(0, 0, 0);
+}
 form {
     width: 30%;
     height: 60%;
-    max-width: 700px;
     margin: 80px auto;
     padding: 30px;
-    border: 2px solid rgb(255, 94, 0);
+    border: 2px solid rgb(252, 120, 32);
     border-radius: 10px;
-    background-color: rgb(199, 155, 139);
-    box-sizing: border-box;
+    background-color: rgb(243, 241, 240);
 }
+
 
