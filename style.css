@@ -309,6 +309,14 @@ button:focus-visible {
   color: #4B5563;
   line-height: 1.6;
 }
+.carte {
+  transition: transform 0.4s ease;
+  
+}
+.carte:hover {
+  transform: scale(1.04);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+}
 
 .apropos-contenu {
   display: flex;
