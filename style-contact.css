@@ -16,6 +16,7 @@ form {
     margin: 80px auto;
     padding: 30px;
     border: 2px solid rgb(252, 120, 32);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
     background-color: rgb(243, 241, 240);
 }
@@ -25,7 +26,7 @@ form label{
 form input,form textarea {
     width: 100%;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(250, 120, 32);
     border-radius: 6px;
     font-size: 15px;
 }
@@ -38,14 +39,15 @@ form button{
     display: block;
     margin: 20px auto 0;
     padding: 12px 35px;
-    background-color: rgb(241, 132, 68);
-    color: rgb(0, 0, 0);
+    background-color: rgb(252, 106, 21);
+    transition: background-color 0.3s;
+    color: rgb(250, 250, 250);
     border-radius: 6px;
     font-size: 16px;
     border: none;
     cursor: pointer;
 } 
     form button:hover {
-  background-color: #F05817;
+  background-color: #e4926f;
 }
 
