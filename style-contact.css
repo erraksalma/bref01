@@ -4,9 +4,10 @@ form .conteneur {
     margin-bottom: 20px;
     width: 100%;
 }
-form h2.conteneur {
+form h1.conteneur {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    font-size: 20px;
     color: rgb(0, 0, 0);
 }
 form {
