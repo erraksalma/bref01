@@ -38,7 +38,7 @@ Ces différentes pages correspondent aux fonctionnalités demandées dans le bri
 
 ## Structure du projet:
 
-```text
+```main
 elan-fitness/
 ├── index.html
 ├── programmes.html
@@ -79,10 +79,16 @@ git add .
 git commit -m "docs: update project documentation"
 
 # Envoyer les commits sur une branche distante
-git push origin nom-de-la-branche
+git push origin nom-du-branche
 ```
-     
+## Le lien du repot:
 
-    
-    
+[lien repot](https://github.com/erraksalma/bref01)
 
+## Le lien du site:
+
+[lien du site](https://erraksalma.github.io/bref01/)
+
+## Le lien du TRELLO:
+
+[text](https://trello.com/b/edVzCKgu/mon-tableau-trello)
