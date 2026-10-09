@@ -37,6 +37,30 @@ Ces différentes pages correspondent aux fonctionnalités demandées dans le bri
     ● SEO / UX/UI / Responsive design .
 
 ## Structure du projet:
+
+```text
+elan-fitness/
+├── index.html
+├── programmes.html
+├── a-propos.html
+├── contactez-nous.html
+├── style.css
+├── style-contact.css
+├── img/
+│   ├── logo.png
+│   ├── hero.jpg
+│   ├── equipe.jpg
+│   ├── musculation.jpg
+│   ├── yoga.jpg
+│   ├── cardio.jpg
+│   ├── boxe.jpg
+│   ├── icone-coach.svg
+│   ├── icone-materiel.svg
+│   ├── icone-horloge.svg
+│   ├── icone-check.svg
+│   └── icone-duree.svg
+└── README.md
+```
      
 
     
