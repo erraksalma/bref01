@@ -61,6 +61,26 @@ elan-fitness/
 │   └── icone-duree.svg
 └── README.md
 ```
+
+## Gestion de versions avec Git
+
+Quelques commandes utiles pour travailler sur le projet :
+```bash
+# Vérifier les fichiers modifiés
+git status
+
+# Afficher les branches locales
+git branch
+
+# Ajouter les modifications à l'index
+git add .
+
+# Créer un commit
+git commit -m "docs: update project documentation"
+
+# Envoyer les commits sur une branche distante
+git push origin nom-de-la-branche
+```
      
 
     
